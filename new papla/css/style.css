@@ -1,0 +1,19 @@
+header {
+  background-color: rgb(29, 85, 85);
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 11px;
+}
+.block {
+}
+.block__item {
+}
+
+.red {
+	color: red;
+}
